@@ -1,7 +1,7 @@
 {
-  "name": "module-13-challenge-orm",
+  "name": "connectMeCom",
   "version": "1.0.0",
-  "description": "",
+  "description": "perform a gambit of eCommerce activities with an object-oriented backend!",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,11 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+    "url": "git@github.com:stevendreed/connectMeCom.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Steven D Reed",
+  "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.3"
   },
